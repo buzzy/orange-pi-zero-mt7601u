@@ -1,6 +1,7 @@
 # orange-pi-zero-mt7601u
 MT7601U driver for kernel 3.4.113 on Orange Pi Zero
 
+```
 root@orangepizero:~/mt7601usta/src# make install
 make -C /root/mt7601usta/src/os/linux -f Makefile.6 install
 make[1]: Entering directory '/root/mt7601usta/src/os/linux'
